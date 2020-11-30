@@ -1,0 +1,2 @@
+(this.webpackJsonpbasereact=this.webpackJsonpbasereact||[]).push([[0],{9:function(e,t,s){"use strict";s.r(t);var c=s(0),r=(s(2),s(3));var n=function(){return Object(c.jsx)("div",{className:"App",children:Object(c.jsx)("h1",{children:"Welcome to Bestenlist react workshop"})})};s.n(r).a.render(Object(c.jsx)(n,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.661aedde.chunk.js.map
